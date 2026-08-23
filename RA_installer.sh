@@ -5,7 +5,7 @@
 # Ver 1.0 - 
 #
 
-SCRIPT_URL="https://raw.githubusercontent.com/Justice57201/Record_archiver/main/Rec-arc.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/WRQC343/Record_archiver/main/Rec-arc.sh"
 
 if [ "$EUID" -ne 0 ]; then
     echo "Please run as root"
