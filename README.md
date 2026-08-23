@@ -12,7 +12,7 @@ Saves the last 5 days of recordings.
 1. SSH into the node and open a bash terminal. Then copy and paste the line below.
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Justice57201/Record_archiver/main/RA_installer.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/WRQC343/Record_archiver/main/RA_installer.sh)"
 ```
 
 ## Setup
